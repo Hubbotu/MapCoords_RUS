@@ -5,8 +5,8 @@
 ## DefaultState: Enabled
 ## Notes: Shows cursor/player coords on worldmap and shows coords below your and your party members portrait (use "/mc or "/mapcoords")
 ## Notes-deDE: Zeigt Spieler/Mauszeiger Koordinaten auf der Karte und unter dem Portrait an (Nutze "/mc" oder "/mcapcoords")
-## Notes-frFR: Affiche les coordonnйes du curseur/joueur sur la carte du monde ainsi que les coordonnйes sous votre portrait et ceux des membres de votre groupe (utiliser "/mc" ou "/mapcoords")
-## Notes-ruRU: Показывает координаты курсора /игрока на карте мира и отображает координаты под портретом вашего персонажа и вашего члена группы (используйте "/mc" ou "/mapcoords")
+## Notes-frFR: Affiche les coordonnГ©es du curseur/joueur sur la carte du monde ainsi que les coordonnГ©es sous votre portrait et ceux des membres de votre groupe (utiliser "/mc" ou "/mapcoords")
+## Notes-ruRU: РџРѕРєР°Р·С‹РІР°РµС‚ РєРѕРѕСЂРґРёРЅР°С‚С‹ РєСѓСЂСЃРѕСЂР° /РёРіСЂРѕРєР° РЅР° РєР°СЂС‚Рµ РјРёСЂР° Рё РѕС‚РѕР±СЂР°Р¶Р°РµС‚ РєРѕРѕСЂРґРёРЅР°С‚С‹ РїРѕРґ РїРѕСЂС‚СЂРµС‚РѕРј РІР°С€РµРіРѕ РїРµСЂСЃРѕРЅР°Р¶Р° Рё РІР°С€РµРіРѕ С‡Р»РµРЅР° РіСЂСѓРїРїС‹ (РёСЃРїРѕР»СЊР·СѓР№С‚Рµ "/mc" ou "/mapcoords")
 ## SavedVariables: MapCoords2
 
 MapCoords.xml
